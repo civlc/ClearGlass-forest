@@ -27,7 +27,7 @@ To install ClearGlass-forest on your Cinnamon desktop, follow these steps:
 3. **Move the theme folder**:
   - Copy the ClearGlass-forest folder to your Cinnamon themes directory:
       ```bash
-   sudo cp -r ClearGlass-forest /usr/share/themes/ 
+      sudo cp -r ClearGlass-forest /usr/share/themes/ 
    
 4. **Apply the theme**:
   - Open <i>Themes</i>.
